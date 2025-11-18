@@ -161,19 +161,6 @@ This illustrates that the model captures meaningful user preferences.
 
 ```bash
 # clone repo
-git clone https://github.com/yourname/news-recsys.git
-cd news-recsys
+git clone https://github.com/GHEASANDRINEMAWEN/Personalinzing-The-Digital-News-Journey.git
 
-# install dependencies
-pip install -r requirements.txt
-
-# run full pipeline
-python build_embeddings.py
-python build_user_embeddings.py
-python build_interactions.py
-python train_lightgbm.py
-python train_deepfm.py
-python evaluate.py
-
-  The two 768-D vectors were concatenated:
 
