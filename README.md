@@ -10,7 +10,7 @@ Dataset: Ekstra Bladet RecSys Challenge (News CTR Prediction)
 
 ##  Dataset Overview
 
-Four datasets were used:
+Four datasets were used and can be gotten from https://www.recsyschallenge.com/2024/#about:
 
 | Dataset | Description |
 |--------|-------------|
